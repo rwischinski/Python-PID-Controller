@@ -1,13 +1,9 @@
 # Python-PID-Controller
 Python PID Algorithm for Raspberry PI
 
-***************************************************************
-* This is a Python port of:
-* 
-* Arduino PID Library - Version 1.2.1
-* by Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com
-*
-* This Library is licensed under the MIT License
+This is a Python port of:
+Arduino PID Library - Version 1.2.1
+by Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com
 ***************************************************************
 
  - For an ultra-detailed explanation of why the code is the way it is, please visit: 
