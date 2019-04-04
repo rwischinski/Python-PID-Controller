@@ -2,7 +2,7 @@
 Python PID Algorithm for Raspberry PI
 
 ***************************************************************
-* This is a Python port (runs on Raspberry PI) of:
+* This is a Python port of:
 * 
 * Arduino PID Library - Version 1.2.1
 * by Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com
